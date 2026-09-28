@@ -1,0 +1,2 @@
+# premium-intarsia-stone-001-stone-intarsia-channel-fit-i
+Tracking stone intarsia channel fits and inlay specifications across multiple projects is a nightmare without a dedicated system. The Stone Intarsia &amp; Channel Fit Inlay Craft Hub solves this by centralizing every measurement, design, and workflow detail in one organized Notion workspace.  This template eliminates scattered spreadsheets and lost not
